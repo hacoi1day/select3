@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản phẩm 1",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "Sản phẩm 2 - 3",
+      "price": 2000
+    },
+    {
+      "id": 3,
+      "name": "Sản phẩm 3",
+      "price": 3000
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "Sản phẩm 4",
+      "price": "4000",
+      "id": 6
+    },
+    {
+      "name": "Sản phẩm 5",
+      "price": "5000",
+      "id": 7
+    },
+    {
+      "name": "Sản phẩm 5",
+      "price": "6000",
+      "id": 8
+    },
+    {
+      "name": "Sản phẩm 7",
+      "price": "6000",
+      "id": 9
+    },
+    {
+      "name": "Sản phẩm test",
+      "price": "6000",
+      "id": 10
+    },
+    {
+      "name": "Sản phẩm test 22323",
+      "price": "6000",
+      "id": 11
+    }
+  ]
+}
